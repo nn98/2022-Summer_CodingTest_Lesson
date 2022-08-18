@@ -115,7 +115,7 @@
     - _한줄평: 로직 원툴_
 
   - 7주차 : 
-    - [가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584) +가독성 향상 과제로
+    - [가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584) `+가독성 향상 과제로`
       - `N` *Hard*  
       - `S` *Hard*  
       - `L` *Hard*  

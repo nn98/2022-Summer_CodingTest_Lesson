@@ -98,12 +98,12 @@
 
   - 6주차 : 
     - [패턴](https://www.acmicpc.net/problem/17300)
-      - `N` *Hard*  
+      - `N` *Hard* 단순구현
       - `S` *Hard*  
       - `L` *Hard*  
       - `A` *Hard*  
     - [프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)
-      - `N` *Hard*  
+      - `N` *Hard*  별도 자료구조 사용하지 않고 배열 2개로 해결
       - `S` *Hard*  
       - `L` *Hard*  
       - `A` *Hard*  
@@ -121,7 +121,7 @@
       - `L` *Hard*  
       - `A` *Hard*  
     - [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
-      - `N` *Hard*  
+      - `N` *Hard* 배열 활용 / 그리디 알고리즘 동전1-배열의 인덱스==가격. 트럭-배열의 인덱스==시간
       - `S` *Hard*  
       - `L` *Hard*  
       - `A` *Hard*  

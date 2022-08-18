@@ -98,7 +98,7 @@
 
   - 6주차 : 
     - [패턴](https://www.acmicpc.net/problem/17300)
-      - `N` *Hard* 단순구현
+      - `N` *Hard* 단순구현. `Adv: 데이터를 활용해 불필요한 중복 로직 제거`
       - `S` *Hard*  
       - `L` *Hard*  
       - `A` *Hard*  

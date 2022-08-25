@@ -131,6 +131,24 @@
       - `L` *Hard*  
       - `A` *Hard*  
     - _한줄평: -_
+    
+  - 8주차 : 
+    - [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)
+      - `N` *Hard*  
+      - `S` *Hard*  
+      - `L` *Hard*  
+      - `A` *Hard*  
+    - [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)
+      - `N` *Hard* 배열 활용 / 그리디 알고리즘 동전1-배열의 인덱스==가격. 트럭-배열의 인덱스==시간
+      - `S` *Hard*  
+      - `L` *Hard*  
+      - `A` *Hard*  
+    - [코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668)
+      - `N` *Hard*  
+      - `S` *Hard*  
+      - `L` *Hard*  
+      - `A` *Hard*  
+    - _한줄평: -_
 
 
 <details><summary>!</summary>
